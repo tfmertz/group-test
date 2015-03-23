@@ -8,3 +8,5 @@ push it up. See how that works. This repo is to learn git!
 # Please edit below!
 
 My cat is a hamburgaler. From hamburg. He's also fat. We call him fat cat. Heh.
+
+I'm going to add more changes, yeah!
